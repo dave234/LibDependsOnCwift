@@ -1,0 +1,6 @@
+framework module LibDependsOnCwift {
+  umbrella header "LibDependsOnCwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

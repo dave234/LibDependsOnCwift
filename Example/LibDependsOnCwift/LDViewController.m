@@ -7,7 +7,7 @@
 //
 
 #import "LDViewController.h"
-
+#import <LibDependsOnCwift/MyClass.h>
 @interface LDViewController ()
 
 @end
@@ -17,6 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    MyClass* derp = [[MyClass alloc]init];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

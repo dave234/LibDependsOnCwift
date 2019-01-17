@@ -1,0 +1,27 @@
+{
+  "name": "LibDependsOnCwift",
+  "version": "0.1.0",
+  "summary": "A short description of LibDependsOnCwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dave234/LibDependsOnCwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dave O'Neill": "daveoneill234@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dave234/LibDependsOnCwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LibDependsOnCwift/Classes/**/*",
+  "dependencies": {
+    "Cwift": [
+
+    ]
+  }
+}

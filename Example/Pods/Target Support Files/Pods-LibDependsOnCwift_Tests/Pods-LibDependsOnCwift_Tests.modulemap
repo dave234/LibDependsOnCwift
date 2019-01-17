@@ -1,0 +1,6 @@
+framework module Pods_LibDependsOnCwift_Tests {
+  umbrella header "Pods-LibDependsOnCwift_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

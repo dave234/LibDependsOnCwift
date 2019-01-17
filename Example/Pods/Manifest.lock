@@ -1,0 +1,23 @@
+PODS:
+  - Cwift (0.4)
+  - LibDependsOnCwift (0.1.0):
+    - Cwift
+
+DEPENDENCIES:
+  - LibDependsOnCwift (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cwift
+
+EXTERNAL SOURCES:
+  LibDependsOnCwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Cwift: 6db2c520a5fbbd21616ff13df56912161a7d1f5b
+  LibDependsOnCwift: 13cdd7e451d9047e9bde927a07aacb48dc138579
+
+PODFILE CHECKSUM: 66d72f0ba24ddf528ddf0e30371f0dd1bfdf8f89
+
+COCOAPODS: 1.5.3
